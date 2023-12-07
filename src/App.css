@@ -1,0 +1,28 @@
+button {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  font-size: 11px;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 20px;
+  background-color: #ced6e0;
+}
+
+input {
+  width: 240px;
+  margin-bottom: 8px;
+}
+
+.texto-riscado {
+  text-decoration: line-through;
+  margin-bottom: 2px;
+}
+
+.tarefa {
+  display: flex;
+}
